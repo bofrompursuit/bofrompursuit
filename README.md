@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Resume](https://img.shields.io/badge/Resume-PDF-red)](./Bo%20Moldenhauer%20NYC%202026%20(1).pdf)
 
 <!--
 **bofrompursuit/bofrompursuit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
