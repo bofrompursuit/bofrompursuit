@@ -1,6 +1,6 @@
 ## 📄 Resume
 
-[📄 View My Resume (PDF)](./Bo%20Moldenhauer%20New%20York.pdf)
+[📄 View My Resume (PDF)](./BoudichMoldenhauerNewYork.pdf)
 ---
 
 ## 🚀 Tech Lookbook
